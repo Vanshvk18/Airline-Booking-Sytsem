@@ -1,0 +1,10 @@
+_______________XYZ Airlines_____________
+_________________Ticket_________________
+________________________________________
+Customer ID: 0
+Customer Name: 
+Customer Gender: 
+	Description
+
+Destination: Dubai
+Flight cost: 10000
